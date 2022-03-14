@@ -85,7 +85,7 @@
     "litipk/flysystem-fallback-adapter": "0.*",
     "mschindler83/fints-hbci-php": "1.*",
     "pragmarx/google2fa-laravel": "0.*",
-    "rcrowe/twigbridge": "0.9.*"
+    "rcrowe/twigbridge": "0.12.*"
   },
   "require-dev": {
     "barryvdh/laravel-ide-helper": "2.*",
